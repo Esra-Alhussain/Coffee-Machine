@@ -3,7 +3,7 @@ package machine
 
 
    
-         var water1 = 400
+    var water1 = 400
     var milk1 = 540
     var coffee = 120
     var cupsD = 9
