@@ -2,7 +2,7 @@ package machine
 
 
 
-    fun main() {
+   
          var water1 = 400
     var milk1 = 540
     var coffee = 120
